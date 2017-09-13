@@ -1,0 +1,3 @@
+Components of Hadoop 2.x are
+1. HDFS
+2. YARN
